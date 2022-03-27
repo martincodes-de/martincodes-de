@@ -18,4 +18,4 @@
 
 ## 📊 Stats
 ![S1](https://github-readme-stats.vercel.app/api?username=martincodes-de&theme=gruvbox)
-![S2](https://github-readme-stats.vercel.app/api/top-langs/?username=martincodes-de)
+![S2](https://metrics.lecoq.io/martincodes-de?template=classic&languages=1&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage%2Cbytes-size&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FBerlin)
