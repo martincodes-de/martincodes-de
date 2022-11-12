@@ -22,7 +22,7 @@
 ## 📐📏 Open Source Projects i'm working on
 | project | project description | what i do | when | links |
 | --- | --- | --- | --- | --- |
-| ![foodsharing](https://i.imgur.com/kqO7dsd.png) | a plattform and community against food waste with more than 500k users | backend and some frontend web development | since march 2022 | [GitLab project](https://gitlab.com/foodsharing-dev) |
+| ![foodsharing](https://i.imgur.com/kqO7dsd.png) | a plattform and community against food waste with more than 500k users | backend and some frontend web development (fullstack) | since march 2022 | [GitLab project](https://gitlab.com/foodsharing-dev) |
 
 ## 📊 Stats
 ![S1](https://github-readme-stats.vercel.app/api?username=martincodes-de&theme=gruvbox)
