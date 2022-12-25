@@ -6,13 +6,14 @@
 - 🧑🏻‍💻 I like to program software and tools that people use. That's what gives me the most pleasure.
 - 🆒 I contribute actively to open source. At this moment, I'm working on [foodsharing](https://foodsharing.de), a platform and community against food waste with more than 500k people.
 - 🛠️ Besides my main tech stack, I also try out different programming languages and tools. The best way for me to do this is through a small/middle sized project.
-  - 🖥️ I am currently most interested in web, backend and some app development.
+  - 🖥️ I am currently most interested in `web`, `backend` and some `app development` and also in `clean code`, `software design & architecture`.
 
 ## 🛠️ Main Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-db7533?style=for-the-badge)
 
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -31,6 +32,8 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![GitPod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
 
 
 ## 📐📏 Open Source Projects i'm working on
