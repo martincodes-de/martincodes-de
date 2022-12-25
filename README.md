@@ -20,7 +20,16 @@
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
 ### Other tools, languages and stuff i use and like
+![Jetbrains IDEs](https://img.shields.io/badge/Jetbrains%20IDEs-181717?style=for-the-badge&logo=jetbrains&logoColor=white)
+![GitPod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
 
 ## 📐📏 Open Source Projects i'm working on
 | project | project description | what i do | when | links |
@@ -29,4 +38,5 @@
 
 ## 📊 Stats
 ![S1](https://github-readme-stats.vercel.app/api?username=martincodes-de&theme=gruvbox)
-![S2](https://metrics.lecoq.io/martincodes-de?template=classic&languages=1&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage%2Cbytes-size&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FBerlin)
+![S2](https://github-readme-stats.vercel.app/api/top-langs/?username=martincodes-de&theme=blue-green)
+![S3](https://metrics.lecoq.io/martincodes-de?template=classic&languages=1&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage%2Cbytes-size&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FBerlin)
