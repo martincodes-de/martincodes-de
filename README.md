@@ -1,5 +1,5 @@
 ## 🙋‍♂️Hello, I'm martincodes alias Martin
-- 👨‍💻 I'm a junior software engineer based in Berlin, Germany. I completed my apprenticeship as a software developer in 2025.
+- 👨‍💻 I'm a full-stack software engineer with a backend focus, based in Berlin, Germany. I completed my apprenticeship as a software developer in 2025.
 - 🎓 I make my hobby my profession and want to keep growing into a good software engineer.
 - 🚲 In my free time besides programming, I meet with friends, ride my bike, or go to the gym to exercise.
 - 🧑🏻‍💻 I like to program software and tools that people use. That's what gives me the most pleasure.
@@ -12,13 +12,13 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-db7533?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ### Other tools, languages and stuff i use and like
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,16 +30,17 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![GitPod](https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 
 ## 📐📏 Open Source Projects i'm working on
 | project | project description | what i do | when | links |
 | --- | --- | --- | --- | --- |
 | ![foodsharing](https://i.imgur.com/kqO7dsd.png) | a platform and community against food waste with more than 500k users | open source maintainer: fullstack web development, code reviews, release coordination, refactoring software design & architecture | since march 2022 | [GitLab project](https://gitlab.com/foodsharing-dev) |
+| [PHP FTP Deploy Kit](https://github.com/martincodes-de/php-ftp-deploy-kit) | thin layer over dg/ftp-deployment for FTP-only hosting: presets plus remote database backup, pull and push | creator and maintainer (PHP) | since november 2026 | [GitHub project](https://github.com/martincodes-de/php-ftp-deploy-kit) |
 
 ## 📊 Stats
 ![S1](https://github-readme-stats.vercel.app/api?username=martincodes-de&theme=gruvbox)
