@@ -2,7 +2,7 @@
 - 👨‍💻 I'm a full-stack software engineer with a backend focus, based in Berlin, Germany. I completed my apprenticeship as a software developer in 2025.
 - 🎓 I make my hobby my profession and want to keep growing into a good software engineer.
 - 🚲 In my free time besides programming, I meet with friends, ride my bike, or go to the gym to exercise.
-- 🧑🏻‍💻 I like to program software and tools that people use. That's what gives me the most pleasure.
+- 🧑🏻‍💻 I like to build software and tools that people actually use. Even better is when they solve real problems, make things easier for people and support them. That's my motivation for becoming a software engineer: building cool things that help people move forward.
 - 🆒 I'm an open source maintainer. At this moment, I maintain [foodsharing](https://foodsharing.de), a platform and community against food waste with more than 500k people.
 - 🛠️ Besides my main tech stack, I also try out different programming languages and tools. The best way for me to do this is through a small/middle sized project.
   - 🖥️ I am currently most interested in `web`, `backend` and some `app development` and also in `clean code`, `software design & architecture`.
