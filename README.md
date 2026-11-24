@@ -1,10 +1,9 @@
 ## 🙋‍♂️Hello, I'm martincodes alias Martin
-- 👨‍💻 I'm a software engineer in training and dual student of computer science based in Berlin, Germany.
-- 🎓 Currently I make my hobby my profession. My goal is to become a good software engineer.
+- 👨‍💻 I'm a junior software engineer based in Berlin, Germany. I completed my apprenticeship as a software developer in 2025.
+- 🎓 I make my hobby my profession and want to keep growing into a good software engineer.
 - 🚲 In my free time besides programming, I meet with friends, ride my bike, or go to the gym to exercise.
-  - ⌛ However, due to the dual study program, this time is very rare.
 - 🧑🏻‍💻 I like to program software and tools that people use. That's what gives me the most pleasure.
-- 🆒 I contribute actively to open source. At this moment, I'm working on [foodsharing](https://foodsharing.de), a platform and community against food waste with more than 500k people.
+- 🆒 I'm an open source maintainer. At this moment, I maintain [foodsharing](https://foodsharing.de), a platform and community against food waste with more than 500k people.
 - 🛠️ Besides my main tech stack, I also try out different programming languages and tools. The best way for me to do this is through a small/middle sized project.
   - 🖥️ I am currently most interested in `web`, `backend` and some `app development` and also in `clean code`, `software design & architecture`.
 
@@ -40,7 +39,7 @@
 ## 📐📏 Open Source Projects i'm working on
 | project | project description | what i do | when | links |
 | --- | --- | --- | --- | --- |
-| ![foodsharing](https://i.imgur.com/kqO7dsd.png) | a platform and community against food waste with more than 500k users | backend and some frontend web development (fullstack), refactoring software design & software architecture | since march 2022 | [GitLab project](https://gitlab.com/foodsharing-dev) |
+| ![foodsharing](https://i.imgur.com/kqO7dsd.png) | a platform and community against food waste with more than 500k users | open source maintainer: fullstack web development, code reviews, release coordination, refactoring software design & architecture | since march 2022 | [GitLab project](https://gitlab.com/foodsharing-dev) |
 
 ## 📊 Stats
 ![S1](https://github-readme-stats.vercel.app/api?username=martincodes-de&theme=gruvbox)
